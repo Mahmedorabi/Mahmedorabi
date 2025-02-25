@@ -9,10 +9,7 @@
 
 
 
-![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
-<h1 align="center"></h1>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
 
 ---
 
@@ -169,3 +166,8 @@
 
 ### 📈 Continuous Learning
 - A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
+
+## 📊 GitHub Stats
+[![Orabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmedorabi&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://raw.githubusercontent.com/SakerDakak/SakerDakak/18c8e620265b49dbcc664d11c6dd0cb88a2a87fd/Images/github-snake.svg) 
