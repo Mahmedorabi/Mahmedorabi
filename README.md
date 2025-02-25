@@ -13,8 +13,8 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1IYmb-DtNBk43tqnInaYM8GO7FcCmPVNj/view?usp=sharing)  
+### 👨‍💻 About Me: 
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1uIktQ1GZ2CCWQkbBSh7B3MZjXOiKKIny/view?usp=sharing)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
 - 📫 **Reach me at**: [mahmedorabi297@gmail.com](mailto:mahmedorabi297@gmail.com) | **+20 155691990**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
