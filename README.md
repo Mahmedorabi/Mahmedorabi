@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me: 
 - 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1w14Ycb98cOuRyoteNn2qSlTAc081O5w-/view?usp=sharing)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics, NLP  
-- 📫 **Reach me at**: [mahmedorabi297@gmail.com](mailto:mahmedorabi297@gmail.com) | **+20 155691990**  
+- 📫 **Reach me at**: [mahmedorabi297@gmail.com](mailto:mahmedorabi297@gmail.com) | **+20 1033648845**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
 ---
 
